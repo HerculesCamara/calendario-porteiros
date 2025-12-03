@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import WorshipsDay from "@/src/components/worshipsDay";
+import WorshipsDay from "@/components/worshipsDay";
 import { ChevronRight } from "lucide-react";
 
 export default function Home() {
